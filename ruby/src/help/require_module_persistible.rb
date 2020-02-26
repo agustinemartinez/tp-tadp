@@ -1,0 +1,6 @@
+require_relative '../instance_persistent_methods'
+require_relative '../persistables_attributes/types/PrimitiveAttribute'
+require_relative '../persistables_attributes/types/ComplexAttribute'
+require_relative '../persistables_attributes/types/CompoundAttribute'
+require_relative '../tables/Table'
+require_relative '../open_classes/OpenArray'

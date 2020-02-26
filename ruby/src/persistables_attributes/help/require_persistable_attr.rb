@@ -1,0 +1,6 @@
+require_relative '../../validations/ModuleValidations'
+require_relative '../../validations/ValidationExceptions'
+require_relative '../../open_classes/OpenSymbol'
+require_relative '../../others/ModuleBoolean'
+require_relative '../PersistableAttribute'
+require 'tadb'
